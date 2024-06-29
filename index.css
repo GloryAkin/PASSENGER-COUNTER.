@@ -3,11 +3,13 @@ body {
     background-size: cover;
     font-family: Verdana, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
+    font-size: 1em;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+    
 }
 .backg{
     background-color: rgba(255,255,255,0.6);

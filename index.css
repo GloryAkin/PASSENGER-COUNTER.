@@ -3,7 +3,6 @@ body {
     background-size: cover;
     font-family: Verdana, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
-    font-size: 1em;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -14,8 +13,9 @@ body {
 .backg{
     background-color: rgba(255,255,255,0.6);
     padding: 10px;
-    max-width: 80%;
+    width: 50vw;
     margin: auto;
+    font-size: 4vw;
 }
 
 h1 {

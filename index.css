@@ -19,14 +19,13 @@ body {
 }
 
 h1 {
-    font-size: 50px;
     margin-top: 10px;
     margin-bottom: 10px;
     font-family: "arial black";
 }
 
 #count-el {
-    font-size: 60px;
+    font-size: 30px;
 }
 button {
     border: none;
